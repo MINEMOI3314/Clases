@@ -1,0 +1,20 @@
+#Backgroud{
+    background-color: #88e596;
+}
+.NavBar{
+    background-color: rgb(156, 156, 225);
+
+}
+.Contenido{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Datos{
+    display: flex;
+    justify-content: space-around;
+}
+.Pie{
+    
+}
