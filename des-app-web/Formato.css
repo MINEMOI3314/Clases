@@ -1,8 +1,8 @@
 #Backgroud{
-    background-color: #88e596;
+    background-color: #c8eef9;
 }
 .NavBar{
-    background-color: rgb(156, 156, 225);
+    background-color: #47a1ef;
 
 }
 .Contenido{
@@ -10,11 +10,19 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
 }
 .Datos{
     display: flex;
-    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
 }
 .Pie{
     
+}
+
+#Tuna{
+    /*para flex direction row , justify-content alinea cosas en el eje x, y algin-items alinea cosas en el eje y*/
+    /* para flex directioon column, es lo contrario */
 }
